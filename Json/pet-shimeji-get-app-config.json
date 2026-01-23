@@ -1,7 +1,7 @@
 {
   "data": {
     "app_config": {
-      "ad_flow_script": "VALID",
+      "ad_flow_script": "CTR_SPAM",
       "ad_key": [
         {
           "name": "app_open_id",
@@ -17,11 +17,11 @@
         },
         {
           "name": "inter_open_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "nativefull_tut_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "nativefull_main_id",
@@ -33,7 +33,7 @@
         },
         {
           "name": "native_tut_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "inter_language_id",
@@ -45,7 +45,7 @@
         },
   	  {
           "name": "inter_splash_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "native_dialog_download_id",
