@@ -66,6 +66,14 @@
         {
           "name": "native_edit_id",
           "isEnabled": "true"
+        },
+ 	  {
+          "name": "nativelapse_detail_id",
+          "isEnabled": "true"
+        },
+        {
+          "name": "inter_detail_id",
+          "isEnabled": "true"
         }
       ]
     }
