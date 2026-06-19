@@ -3,10 +3,10 @@
     "app_info": [
       {
         "what_news": "Bug fixeds",
-        "force_update": "false",
+        "force_update": "true",
         "package_name": "com.westpoint.petshimeji.animeshimeji",
-        "version_code": 1,
-        "version_name": "1.0",
+        "version_code": 27,
+        "version_name": "3.6",
         "new_package_name": "com.westpoint.petshimeji.animeshimeji"
       }
     ]
